@@ -13,7 +13,7 @@ Galeria de fotos com filtragem de tags.
 
 ### Design responsivo e simples.
 
-###Fácil de adicionar novas categorias e imagens.
+### Fácil de adicionar novas categorias e imagens.
 
 # Tecnologias Utilizadas
 
